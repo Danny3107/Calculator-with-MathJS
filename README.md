@@ -1,3 +1,3 @@
 # Calculator-with-MathJS
-Calculator-with-MathJS\n
+Calculator-with-MathJS </br>
 It's not finished yet.
